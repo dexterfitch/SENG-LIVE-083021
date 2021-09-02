@@ -139,3 +139,5 @@ src="https://external-preview.redd.it/tQged7mKJ3cUpNMq5IMeceZvyKP3cTyHqhNmKEQ0Vv
 document.querySelector('#lecture-goals').remove()
 // const lectureGoals = document.querySelector('#lecture-goals')
 // lectureGoals.remove()
+
+//Comment for testing overwrite
